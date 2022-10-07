@@ -1,0 +1,19 @@
+.noDisplay{
+display: none;
+}
+
+.yesDisplay{
+
+    display: inline;
+}
+
+img{
+
+    width: 250px;
+    height: 250px;
+    margin-left: 30%;
+}
+
+button{
+    margin-left: 40%;
+}
